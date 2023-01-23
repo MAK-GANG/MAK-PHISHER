@@ -1,0 +1,5 @@
+pkg install python -y
+pkg install php -y
+pip install requests
+pip install wget
+pip install bs4
